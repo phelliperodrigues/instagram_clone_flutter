@@ -1,6 +1,10 @@
 # insta_flutter
 
-A new Flutter project.
+A Instagram Clone Builded with Flutter.
+
+<p align="center">
+  <img width="300" height="600" src="insta_flutter.gif">
+</p>
 
 ## Getting Started
 
